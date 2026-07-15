@@ -31,14 +31,6 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Hoferlukaslh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoferlukaslh&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite" />
-  </a>
-  <a href="https://github.com/Hoferlukaslh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoferlukaslh&layout=compact&theme=graywhite" />
-  </a>
-</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hoferlukaslh&theme=default" />
